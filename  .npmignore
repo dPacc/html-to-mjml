@@ -1,0 +1,27 @@
+# Development files
+src/
+test/
+examples/
+.github/
+.vscode/
+
+# Configuration files
+.eslintrc.js
+.prettierrc
+tsconfig.json
+webpack.config.js
+jest.config.js
+
+# Git files
+.git
+.gitignore
+
+# Build process
+node_modules/
+coverage/
+*.log
+
+# Example outputs
+examples/node/*.mjml
+examples/node/*.html
+

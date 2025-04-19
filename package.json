@@ -7,7 +7,9 @@
   "browser": "dist/browser/index.js",
   "types": "dist/types/index.d.ts",
   "files": [
-    "dist"
+    "dist",
+    "LICENSE",
+    "README.md"
   ],
   "scripts": {
     "build": "npm run build:clean && npm run build:esm && npm run build:cjs && npm run build:browser",
